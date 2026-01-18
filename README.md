@@ -10,7 +10,7 @@
 - [Project Overview](#project-overview)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
-- [Monitoring & Visualization](#monitoring-&-visualization)
+- [Monitoring & Visualization](#monitoring--visualization)
 - [Backup Strategy](#backup-strategy)
 - [Automation](#automation)
 - [Validation](#validation)
